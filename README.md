@@ -24,10 +24,10 @@ Areas of interest: Web3, AI, Cloud
 ## My Tech Stack👨‍💻
 
 ###### Frontend
-Html, CSS, Bootstrap, Sass, Javascript, Typescript, Tailwind, Next.js, Rest APIs
+Html, CSS, Javascript, React, Sass, Tailwind, Next.js, Typescript, Rest APIs
 
 ###### Backend
-Node.js, Express, Prisma, Graphql, Ether.js, Solana/Web3.js
+Node.js, Express, Prisma, Ether.js, Solana/Web3.js
 
 ###### Programming
 Javascript, Solidity
