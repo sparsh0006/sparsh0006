@@ -30,13 +30,13 @@ Html, CSS, Bootstrap, Sass, Javascript, Typescript, Tailwind, Next.js, Rest APIs
 Node.js, Graphql, Ether.js, Solana/Web3.js
 
 ###### Programming
-Javascript, Solidity, Java
+Javascript, Solidity
 
 ###### Blockchains
-Ethereum, Solana
+Ethereum, Solana , Sonic
 
 ###### Tools/SDKs I have worked with:
-IPFS, Chainlink, Huddle01, Superfluid, Spheron, Lens, DataverseOS, Lighthouse, Lit
+Sonic, ELIZA framework, IPFS, Chainlink, 
 
 </br>
 </br>
