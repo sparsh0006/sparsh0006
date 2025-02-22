@@ -27,7 +27,7 @@ Areas of interest: Web3, AI, Cloud
 Html, CSS, Bootstrap, Sass, Javascript, Typescript, Tailwind, Next.js, Rest APIs
 
 ###### Backend
-Node.js, Graphql, Ether.js, Solana/Web3.js
+Node.js, Express, Prisma, Graphql, Ether.js, Solana/Web3.js
 
 ###### Programming
 Javascript, Solidity
