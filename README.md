@@ -16,7 +16,7 @@ Areas of interest: Web3, AI, Cloud
 </br>
 
 ## Blogs✏️
-- [Understanding and Using ERC1155 tokens](https://anshss.hashnode.dev/using-erc1155) </br>
+- [Understanding DeFi Composability](https://sparsh621.hashnode.dev/defi-composability-what-it-is-and-why-it-matters) </br>
 
 </br>
 </br>
