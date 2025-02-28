@@ -5,11 +5,11 @@
 </div>
 
 </br>
-</br> -->
+</br> --
 
 
 ## About ME 💬
-My core competencies include JavaScript, Typescript, REST APIs, and Solidity. </br>
+My core competencies  Typescript, REST APIs, and Solidity. </br>
 Areas of interest: Web3, AI, Cloud
 
 </br>
