@@ -1,42 +1,36 @@
-<!-- ## Hey Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-
+## Hey Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 <div align="center">
- <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/foreveransh/foreveransh/blob/main/assets/208593.gif">
+ <img height="300" width="700" alt="GIF" align="center" src="https://github.com/foreveransh/foreveransh/blob/main/assets/208593.gif">
 </div>
-
 </br>
-</br> --
-
+</br>
 
 ## About ME 💬
-My core competencies  Typescript, REST APIs, and Solidity. </br>
+My core competencies include JavaScript, TypeScript, REST APIs, and Solidity. </br>
 Areas of interest: Web3, AI, Cloud
-
 </br>
 </br>
 
-## Blogs✏️
+## Blogs ✏️
 - [Understanding DeFi Composability](https://sparsh621.hashnode.dev/defi-composability-what-it-is-and-why-it-matters) </br>
-
 </br>
 </br>
 
-## My Tech Stack👨‍💻
+## My Tech Stack 👨‍💻
 
-###### Frontend
-Html, CSS, Javascript, React, Sass, Tailwind,Next.js, Typescript, 
+### Frontend
+HTML, CSS, JavaScript, React, Sass, Tailwind, Next.js, TypeScript, shadCN
 
-###### Backend
-Node.js, Express, MongoDB, Rest APIs, Prisma, Ether.js, Solana/Web3.js
+### Backend
+Node.js, Express, MongoDB, REST APIs, Prisma, Ethers.js, Solana/Web3.js
 
-###### Programming
-Javascript, Solidity
+### Programming
+JavaScript, Solidity
 
-###### Blockchains
-Ethereum, Solana , Sonic
+### Blockchains
+Ethereum, Solana, Sonic
 
-###### Tools/SDKs I have worked with:
-Sonic, ELIZA framework, IPFS, Chainlink, 
-
+### Tools/SDKs I have worked with:
+ELIZA framework, IPFS, Chainlink, Sonic sdk, DLMM sdk
 </br>
 </br>
