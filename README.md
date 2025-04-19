@@ -31,6 +31,6 @@ JavaScript, Solidity
 Ethereum, Solana, Sonic
 
 ### Tools/SDKs I have worked with:
-ELIZA framework, IPFS, Chainlink, Sonic sdk, DLMM sdk
+ELIZA framework, Chainlink, Sonic sdk, DLMM sdk
 </br>
 </br>
