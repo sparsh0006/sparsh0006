@@ -13,6 +13,7 @@ Areas of interest: Web3, AI, Cloud
 
 ## Blogs ✏️
 - [Understanding DeFi Composability](https://sparsh621.hashnode.dev/defi-composability-what-it-is-and-why-it-matters) </br>
+- [Constructing Solana Virtual Machine (SVM) Ecosystems’ Next Generation of Data Analytics Infrastructure](https://medium.com/@sparsh621/constructing-solana-virtual-machine-svm-ecosystems-next-generation-of-data-analytics-bde7571527fa) </br>
 </br>
 </br>
 
