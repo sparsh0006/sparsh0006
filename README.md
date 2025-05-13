@@ -23,7 +23,7 @@ Areas of interest: Web3, AI, Cloud
 HTML, CSS, JavaScript, React, Sass, Tailwind, Next.js, TypeScript, shadCN
 
 ### Backend
-Node.js, Express, MongoDB, REST APIs, Prisma, Ethers.js, Solana/Web3.js
+Node.js, Express, MongoDB, REST APIs, Prisma, Supabase, Ethers.js, Solana/Web3.js
 
 ### Programming
 JavaScript, Solidity
