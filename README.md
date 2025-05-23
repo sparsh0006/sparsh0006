@@ -29,9 +29,9 @@ Node.js, Express, MongoDB, REST APIs, Prisma, Supabase, Ethers.js, Solana/Web3.j
 JavaScript, Solidity
 
 ### Blockchains
-Ethereum, Solana, Sonic
+Ethereum, Solana, Sonic, Sui
 
 ### Tools/SDKs I have worked with:
-ELIZA framework, Chainlink, Solana agent kit , sonic agent kit , DLMM sdk
+ELIZA framework, Chainlink, Solana agent kit , sonic agent kit ,Sui agent kit, DLMM sdk
 </br>
 </br>
