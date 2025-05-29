@@ -32,6 +32,6 @@ JavaScript, Solidity
 Ethereum, Solana, Sonic, Sui
 
 ### Tools/SDKs I have worked with:
-ELIZA framework, Chainlink, Solana agent kit , sonic agent kit ,Sui agent kit, DLMM sdk, OKX sdk, base agent kit
+ELIZA framework, Chainlink, Solana agent kit , sonic agent kit ,Sui agent kit, OKX sdk, base agent kit, Meteora SDK
 </br>
 </br>
