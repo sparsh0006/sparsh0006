@@ -49,26 +49,30 @@ ELIZA framework, Chainlink, Solana Agent Kit, Sonic Agent Kit, Sui Agent Kit, OK
 ### **AeroLink — DePIN: Weather & Pollution Monitoring**
 Decentralized environmental monitoring using Hedera HCS + HTS with real-time sensor mapping and tokenized rewards.  
 **Tech:** TypeScript, Express, MongoDB, Hedera SDK, Next.js, Leaflet  
-Repo: `AeroLink`
+**Repo:** [AeroLink](https://github.com/sparsh0006/AeroLink)
 
+---
 
 ### **BaseTone — Voice-Powered AI Metaverse on Base**
 Voice-driven AI agent performing onchain tasks (balances, bridging, NFT info, contract actions) in a 2D metaverse.  
 **Tech:** Next.js, AgentKit, OpenAI, Privy, ElevenLabs, Socket.IO  
-Repo: `BaseTone`
+**Repo:** [BaseTone](https://github.com/sparsh0006/BaseTone)
 
+---
 
-### **Eliza — Hedera Multi-Agent System**
+### **Hash Brownie — Hedera Multi-Agent System**
 Autonomous agents with Hedera Consensus + Token Service support, plus Telegram integration.  
 **Tech:** Node.js, Hedera SDK, pnpm  
-Repo: `eliza`
+**Repo:** [Hash Brownie](https://github.com/sparsh0006/eliza)
 
+---
 
 ### **Xstream — AI Web3 Companion for Social Media**
 AI-powered Aptos wallet actions directly on X.com via Chrome extension + dashboard.  
 **Tech:** Node.js, React, Aptos SDK, Pinata, Move Agent Kit  
-Repo: `Xstream`
+**Repo:** [Xstream](https://github.com/sparsh0006/Xstream)
 
+---
 
 ## Projects 🌱
 
@@ -77,8 +81,8 @@ Repo: `Xstream`
 - BaseTone  
 - Xstream  
 - Hash Brownie  
-- CoinPilot   
-- OkxFi   
+- CoinPilot  
+- OkxFi  
 - Bob  
 
 ### Web2 Projects
@@ -97,4 +101,3 @@ GitHub: https://github.com/sparsh0006
 Email: 621sparsh@gmail.com  
 
 ---
-
